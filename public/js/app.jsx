@@ -1,11 +1,9 @@
-const React = require('react');
-const ReactDOM = require('react-dom');
-
 const Greeter = React.createClass({
   render: function(){
     return (
-      <div>
-        <h1>Hello, React!</h1>
+      <div className="jumbotron">
+        <h1>Hello, React Boilerplate!</h1>
+        <p>This is a boilerplate for building ReactJS applications.</p>
       </div>
     );
   }
