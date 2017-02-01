@@ -1,0 +1,18 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "A React boilerplate/starter template for building React apps in Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "React",
+    "Node",
+    "Express",
+    "Flexbox"
+  ],
+  "author": "Nathan Stephens",
+  "license": "ISC"
+}
