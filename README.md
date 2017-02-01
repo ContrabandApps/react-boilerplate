@@ -2,13 +2,13 @@
 ###by Contraband Apps (Nathan Stephens)
 
 Utilizing the following technologies to make life easier:
-> Gulp
-> Node
-> Express
-> Webpack
-> Babel
-> SCSS/SASS
-> and others will be added to the list when they're added to the repo.
+* Gulp
+* Node
+* Express
+* Webpack
+* Babel
+* SCSS/SASS
+* others will be added to the list when they're added to the repo.
 
 
 This is a work in progress as of Feb 1st 2017. All packages will be updated regularly in accordance with ReactJs requirements.
